@@ -1,2 +1,7 @@
-# Learn-Git
-a test to Learn Git
+# Learn-Git and github
+
+
+```Javascript
+console.log("HEllo WOrld !);
+```
+
